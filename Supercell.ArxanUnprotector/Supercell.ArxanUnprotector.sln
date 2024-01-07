@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supercell.ArxanUnprotector", "Supercell.ArxanUnprotector\Supercell.ArxanUnprotector.csproj", "{D3ED0E92-9FA5-44BC-93CB-B61FB57A5EA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{779C2425-F4BB-43A9-A7C2-E632ECF83048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captstone.Net", "Captstone.Net\Captstone.Net.csproj", "{132FC515-13BD-4FE3-AB23-F629D56CF633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3ED0E92-9FA5-44BC-93CB-B61FB57A5EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ED0E92-9FA5-44BC-93CB-B61FB57A5EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3ED0E92-9FA5-44BC-93CB-B61FB57A5EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3ED0E92-9FA5-44BC-93CB-B61FB57A5EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132FC515-13BD-4FE3-AB23-F629D56CF633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132FC515-13BD-4FE3-AB23-F629D56CF633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132FC515-13BD-4FE3-AB23-F629D56CF633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132FC515-13BD-4FE3-AB23-F629D56CF633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{132FC515-13BD-4FE3-AB23-F629D56CF633} = {779C2425-F4BB-43A9-A7C2-E632ECF83048}
+	EndGlobalSection
+EndGlobal
